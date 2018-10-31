@@ -1,0 +1,18 @@
+{
+  "Mac" : [
+    {
+      "name" : "ORSSerial",
+      "hash" : "9f63bd2adefac64ece708b13a6d462913d158c117800a619b61e2a7c8283282b"
+    }
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "2.0.2",
+  "iOS" : [
+
+  ]
+}
